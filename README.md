@@ -1,0 +1,2 @@
+# LeetcodePython
+本仓库用于存储用VSCode刷Leetcode题目形成的所有代码
