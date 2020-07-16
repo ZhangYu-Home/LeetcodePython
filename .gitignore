@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#忽略一个测试文件
+test*.py
+Test*.py
+
+
+
