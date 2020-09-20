@@ -131,6 +131,10 @@ dmypy.json
 #忽略一个测试文件
 test*.py
 Test*.py
+#忽略python配置文件
+Pipfile
+Pipfile.lock
+
 
 
 
